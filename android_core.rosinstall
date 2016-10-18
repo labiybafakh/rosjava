@@ -2,5 +2,5 @@
 # Prerequistes: https://raw.github.com/rosjava/rosjava/indigo/rosjava.rosinstall
 #
 [
-{'git': {'local-name': 'android_core', 'version': 'indigo', 'uri':'https://github.com/labiybafakh/android_core'}},
+{'git': {'local-name': 'android_core', 'version': 'indigo', 'uri':'https://github.com/<username>/android_core'}},
 ]
